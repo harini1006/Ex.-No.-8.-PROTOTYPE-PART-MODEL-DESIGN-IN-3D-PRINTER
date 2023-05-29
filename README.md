@@ -45,10 +45,12 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:
+## Output:![WhatsApp Image 2023-05-29 at 09 32 44](https://github.com/harini1006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113497405/beca3b4a-ac86-43f0-b066-02ce60879188)
 
-### Name:
-### Register Number:
+
+
+### Name: Harini V
+### Register Number: 212222230044
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
